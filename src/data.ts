@@ -1,9 +1,12 @@
+// Public assets share Vite’s deployment base (root or a subdirectory).
+export const publicAsset = (path: string) => `${import.meta.env.BASE_URL}${path}`;
+
 export const business = {
  name: "Lev's Bakery of Tecumseh", email: 'levsbakeryoftecumseh@gmail.com', phone: '(517) 423-2948', tel: 'tel:5174232948',
  address: '124 E Chicago Blvd #1', city: 'Tecumseh, MI 49286',
  facebook: 'https://www.facebook.com/LevsBakeryofTecumseh',
  directions: 'https://www.google.com/maps/dir/?api=1&destination=124+E+Chicago+Blvd+%231+Tecumseh+MI+49286',
- logo: '/images/levs/Levs_new_logo.png',
+ logo: publicAsset('images/levs/Levs_new_logo.png'),
  yelp: 'https://www.yelp.com/biz/levs-bakery-of-tecumseh-tecumseh',
  pretzelOffers: {
   saturday: 'Pretzels & donuts are 50% off from 3 p.m. to close on Saturdays.',
@@ -11,7 +14,7 @@ export const business = {
  },
  hours: "Hours may vary — check Facebook for today's hours.",
 };
-export const photo = (name: string) => `/images/levs/${name}.webp`;
+export const photo = (name: string) => publicAsset(`images/levs/${name}.webp`);
 export const favorites = [
  {title:'Donuts',number:'01',image:'donut-box',alt:'A box of Lev’s assorted frosted, filled and sprinkled donuts',text:'Glazed, sugar-dusted, cream-filled, fruit-filled. Meet your morning favorites.',items:'Glazed raised · Filled donuts · Maple Long Johns · Sprinkled favorites'},
  {title:'Cookies',number:'02',image:'decorated-cookies',alt:'Trays of colorful decorated cookies at Lev’s',text:'A little nostalgia, a little icing. Something sweet for every season.',items:'Iced sugar cookies · Snickerdoodles · Oatmeal chocolate chip'},

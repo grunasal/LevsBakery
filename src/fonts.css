@@ -1,3 +1,4 @@
+/* Vite rewrites these public font URLs using the configured deployment base. */
 @font-face {
   font-family: 'Lobster';
   font-style: normal;
