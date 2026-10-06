@@ -72,3 +72,7 @@ The gallery now contains twelve tiles. The user-supplied heart-shaped sprinkle-d
 The client supplied the current Saturday offer: pretzels and donuts are 50% off from 3 p.m. to close. The frozen-pretzel offer is transcribed from the supplied `public/images/levs/pretzel_special.jpeg`: ask about the $5-per-dozen frozen pretzel special. Both are centralized in `business.pretzelOffers` in `src/data.ts`. No exact closing time is implied.
 
 The client-supplied contact email `levsbakeryoftecumseh@gmail.com` is centralized in `src/data.ts`, shown as a mailto link in Visit and the footer, and included in Bakery structured data.
+
+Yelp review links are included beside the customer-review information and in the footer, paired with the red Yelp logo. The business URL was confirmed through the Roadtrippers listing: https://maps.roadtrippers.com/us/tecumseh-mi/food-drink/levs-bakery-of-tecumseh . Yelp icon source: https://cdn.jsdelivr.net/npm/simple-icons@15.0.0/icons/yelp.svg . The client subsequently supplied visit details: Apple Pay, contactless payments, wheelchair accessibility, street parking and credit cards. These are displayed with adjacent matching icons in Visit. The pet-friendly item is omitted as requested.
+
+Apple Pay logo source: https://cdn.jsdelivr.net/npm/simple-icons@15.0.0/icons/applepay.svg . The other visit icons use the existing Lucide icon library.

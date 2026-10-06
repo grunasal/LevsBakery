@@ -84,5 +84,10 @@
     "file": "heart-shaped-sprinkle-donuts.webp",
     "source": "User-supplied public/images/levs/heart_shape.jpeg",
     "context": "Supplied with the gallery addition; responsive optimized copies."
+  },
+  {
+    "file": "levs_owners.webp",
+    "source": "User-supplied local file and caption",
+    "context": "Roger DeJonghe, Martha Miller and Jason Miller, from left. Photographer credit supplied by the user: Mike Dickie / The Daily Telegram."
   }
 ]

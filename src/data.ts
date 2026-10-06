@@ -4,6 +4,7 @@ export const business = {
  facebook: 'https://www.facebook.com/LevsBakeryofTecumseh',
  directions: 'https://www.google.com/maps/dir/?api=1&destination=124+E+Chicago+Blvd+%231+Tecumseh+MI+49286',
  logo: '/images/levs/Levs_new_logo.png',
+ yelp: 'https://www.yelp.com/biz/levs-bakery-of-tecumseh-tecumseh',
  pretzelOffers: {
   saturday: 'Pretzels & donuts are 50% off from 3 p.m. to close on Saturdays.',
   frozen: 'Ask about our frozen pretzel special — $5 per dozen.',
@@ -37,3 +38,12 @@ export const sources = {
  reviews:'https://www.restaurantji.com/mi/tecumseh/levs-bakery-shop-/',
  photos:'https://www.restaurantji.com/mi/tecumseh/levs-bakery-shop-/gallery/',
 };
+
+// Visit details supplied by the client.
+export const visitFacts = [
+ {icon: 'applePay', label: 'Accepts Apple Pay'},
+ {icon: 'contactless', label: 'Accepts contactless payments'},
+ {icon: 'accessible', label: 'Wheelchair accessible'},
+ {icon: 'parking', label: 'Street parking'},
+ {icon: 'cards', label: 'Accepts credit cards'},
+] as const;
