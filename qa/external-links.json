@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://www.facebook.com/LevsBakeryofTecumseh",
+    "status": 200
+  },
+  {
+    "url": "https://www.google.com/maps/dir/?api=1&destination=124+E+Chicago+Blvd+%231+Tecumseh+MI+49286",
+    "status": 200
+  },
+  {
+    "url": "https://www.yahoo.com/news/owners-lev-son-bakery-tecumseh-080018300.html",
+    "status": 200
+  },
+  {
+    "url": "https://www.restaurantji.com/mi/tecumseh/levs-bakery-shop-/",
+    "status": 200
+  },
+  {
+    "url": "https://www.tripadvisor.com/Restaurant_Review-g42748-d4984239-Reviews-or60-Lev_s_Bakery_Shop-Tecumseh_Michigan.html",
+    "result": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://www.tripadvisor.com/Restaurant_Review-g42748-d4984239-Reviews-or30-Lev_s_Bakery_Shop-Tecumseh_Michigan.html",
+    "result": "HTTP Error 403: Forbidden"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "desktop",
+    "overflow": false,
+    "brokenImages": [],
+    "invalidAnchors": [],
+    "phones": [
+      "tel:5174232948",
+      "tel:5174232948",
+      "tel:5174232948",
+      "tel:5174232948",
+      "tel:5174232948",
+      "tel:5174232948",
+      "tel:5174232948"
+    ],
+    "links": [
+      "http://127.0.0.1:5173/#main",
+      "http://127.0.0.1:5173/#home",
+      "http://127.0.0.1:5173/#favorites",
+      "http://127.0.0.1:5173/#pretzels",
+      "http://127.0.0.1:5173/#story",
+      "http://127.0.0.1:5173/#gallery",
+      "http://127.0.0.1:5173/#visit",
+      "https://www.facebook.com/LevsBakeryofTecumseh",
+      "tel:5174232948",
+      "https://www.google.com/maps/dir/?api=1&destination=124+E+Chicago+Blvd+%231+Tecumseh+MI+49286",
+      "https://www.yahoo.com/news/owners-lev-son-bakery-tecumseh-080018300.html",
+      "https://www.restaurantji.com/mi/tecumseh/levs-bakery-shop-/"
+    ],
+    "errors": []
+  },
+  {
+    "name": "tablet",
+    "overflow": false,
+    "brokenImages": [],
+    "invalidAnchors": [],
+    "phones": [
+      "tel:5174232948",
+      "tel:5174232948",
+      "tel:5174232948",
+      "tel:5174232948",
+      "tel:5174232948",
+      "tel:5174232948",
+      "tel:5174232948"
+    ],
+    "links": [
+      "http://127.0.0.1:5173/#main",
+      "http://127.0.0.1:5173/#home",
+      "http://127.0.0.1:5173/#favorites",
+      "http://127.0.0.1:5173/#pretzels",
+      "http://127.0.0.1:5173/#story",
+      "http://127.0.0.1:5173/#gallery",
+      "http://127.0.0.1:5173/#visit",
+      "https://www.facebook.com/LevsBakeryofTecumseh",
+      "tel:5174232948",
+      "https://www.google.com/maps/dir/?api=1&destination=124+E+Chicago+Blvd+%231+Tecumseh+MI+49286",
+      "https://www.yahoo.com/news/owners-lev-son-bakery-tecumseh-080018300.html",
+      "https://www.restaurantji.com/mi/tecumseh/levs-bakery-shop-/"
+    ],
+    "errors": []
+  },
+  {
+    "name": "mobile",
+    "overflow": false,
+    "brokenImages": [],
+    "invalidAnchors": [],
+    "phones": [
+      "tel:5174232948",
+      "tel:5174232948",
+      "tel:5174232948",
+      "tel:5174232948",
+      "tel:5174232948",
+      "tel:5174232948",
+      "tel:5174232948"
+    ],
+    "links": [
+      "http://127.0.0.1:5173/#main",
+      "http://127.0.0.1:5173/#home",
+      "http://127.0.0.1:5173/#favorites",
+      "http://127.0.0.1:5173/#pretzels",
+      "http://127.0.0.1:5173/#story",
+      "http://127.0.0.1:5173/#gallery",
+      "http://127.0.0.1:5173/#visit",
+      "https://www.facebook.com/LevsBakeryofTecumseh",
+      "tel:5174232948",
+      "https://www.google.com/maps/dir/?api=1&destination=124+E+Chicago+Blvd+%231+Tecumseh+MI+49286",
+      "https://www.yahoo.com/news/owners-lev-son-bakery-tecumseh-080018300.html",
+      "https://www.restaurantji.com/mi/tecumseh/levs-bakery-shop-/"
+    ],
+    "errors": []
+  }
+]
