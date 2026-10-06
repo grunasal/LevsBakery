@@ -1,6 +1,6 @@
 # Lev’s Bakery of Tecumseh
 
-A custom informational React + TypeScript + Vite demo, built in this workspace. No checkout, customer accounts, online ordering, prices, email address, delivery claims, invented reviews, or unverified social accounts.
+A custom informational React + TypeScript + Vite demo, built in this workspace. No checkout, customer accounts, online ordering, invented prices or email addresses, delivery claims, invented reviews, or unverified social accounts.
 
 ## Run
 
@@ -70,3 +70,5 @@ The gallery now contains twelve tiles. The user-supplied heart-shaped sprinkle-d
 ## Saturday offers
 
 The client supplied the current Saturday offer: pretzels and donuts are 50% off from 3 p.m. to close. The frozen-pretzel offer is transcribed from the supplied `public/images/levs/pretzel_special.jpeg`: ask about the $5-per-dozen frozen pretzel special. Both are centralized in `business.pretzelOffers` in `src/data.ts`. No exact closing time is implied.
+
+The client-supplied contact email `levsbakeryoftecumseh@gmail.com` is centralized in `src/data.ts`, shown as a mailto link in Visit and the footer, and included in Bakery structured data.

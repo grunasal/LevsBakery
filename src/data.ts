@@ -1,5 +1,5 @@
 export const business = {
- name: "Lev's Bakery of Tecumseh", phone: '(517) 423-2948', tel: 'tel:5174232948',
+ name: "Lev's Bakery of Tecumseh", email: 'levsbakeryoftecumseh@gmail.com', phone: '(517) 423-2948', tel: 'tel:5174232948',
  address: '124 E Chicago Blvd #1', city: 'Tecumseh, MI 49286',
  facebook: 'https://www.facebook.com/LevsBakeryofTecumseh',
  directions: 'https://www.google.com/maps/dir/?api=1&destination=124+E+Chicago+Blvd+%231+Tecumseh+MI+49286',

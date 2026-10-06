@@ -86,3 +86,11 @@ html{scroll-padding-top:calc(var(--nav-height) + var(--anchor-gap));}
 .pretzel-offers h3{font-size:20px;letter-spacing:.5px;color:#e9ca8e;margin-bottom:7px;}
 .pretzel-offers p{font-size:13px;line-height:1.75;color:var(--cream);}
 @media(max-width:560px){.pretzel-offers{padding:18px 20px;}.pretzel-offers h3{font-size:21px;}}
+.visit-email{display:flex;align-items:center;gap:13px;margin-top:20px;color:var(--blue);font-size:13px;width:fit-content;}
+.visit-email>svg{flex-shrink:0;}
+.visit-email small{display:block;font:10px 'Oswald',sans-serif;letter-spacing:1.7px;margin-bottom:5px;color:#776c53;}
+.visit-email:hover span{text-decoration:underline;text-underline-offset:3px;}
+.footer>div>a.footer-email{display:flex;align-items:center;gap:8px;color:var(--blue);line-height:1.7;margin:12px 0 10px;}
+.footer-email svg{flex-shrink:0;}.footer-email span{overflow-wrap:anywhere;}
+.footer-email:hover span{text-decoration:underline;text-underline-offset:3px;}
+@media(max-width:560px){.visit-email{font-size:12px;gap:10px;}.footer>div>a.footer-email{font-size:10px;align-items:flex-start;}.footer-email svg{margin-top:2px;width:13px;}}
